@@ -1,0 +1,1358 @@
+{
+	"version": 3,
+	"filters": [
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Domeno Pizza",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Moziz Sarif, Ab payen Dugna volume.1500MB ke Jaga Poray 3000MB Facebook aur WhatsApp Mahina bher ke liya sirf Rs 38.47 mein. Abhi milain *911#",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Upto 10000 Loan! Dial *786*7*1# now and get an instantly in your Easypaisa Mobile Account",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Monthly Super Duper Offer!Ab paen 30 din k lye 3 GBs Data, 3000 JazzWarid+100 offnet mins  bina call fee aur 3000 SMS sirf Rs.460 bama tax mai. Dial *706#.",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Super Plus offer!Ab paen 24 ghantay k liye 500 JazzWarid Mins, 500 MBs, 500 SMS aur 5 offnet Min sirf Rs.25 bama tax main. Abhi *558# milaen.",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Aj hi *114*5# milain aur hasil kerain 1 din k liye 200 MB 4G (Facebook & Whatsapp only) sirf Rs.5+T mein. Agle din hasil kerain 50 JAZZ 4G MB bilkul MUFT!",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Get 100% Cashback when you do JazzLoad on your own number via JazzCash App. Offer valid till 30th June Max Rs.100 T&C Apply Use App : https://bit.ly/2H9n0YO",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Ab Machega Shor aur Milega More sirf Telenor ke sath Payein 12GB Pura hufta sirf Rs,.150 mein Only on My Telenor App http://onelink.to/babn4k\r\n",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Hungama Music PKR 10/week kharednay ka shukriya,Agla charge Jul 06, 2019 ko hoga.Istamal karne ke liye http://hng.am/9916 , Khatam karne ke liye HUNGAMA STOP to 5716",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "chenone.com",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "loan",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Telenor BizStore",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Beat the heat with Shoebox Super Summer Sale. Avail Upto 50% Off across stores nationwide and online at http://bit.ly/2YhQLOz",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Ab Machao Shor kyon ke Telenor laya hai More,Weekly Ultra ke saath payein 12GB Internet in RS.150 only on Mytelenor App http://onelink.to/babn4k\r\n",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "telenor voiler",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Abhi *170# milaein aur paein 7 din ke liye 200 telenor mins, 20 dusre mins, 200 SMS aur 100 MBs sirf 75 Rs. bama tax mein",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "J. launches Festive Collection Vol. II; an assortment of stunning designs for Men, Women & Kids, on 28th June in stores & online at: http://bit.ly/2KTYIpv",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Aik khoobsurat larki ki aghwah hone ki kahani! kaisay badli us ki zindagi. Abhi link per click karo aur suno kahani Muhabbat ki chaoon http://bit.ly/2WUUQfa",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Alkaram",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "khaadi",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "beoe.gov.pk",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "jeeto pakistan",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "benazir",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "tapmad premium",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "bills ki adaigi",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "online banking experience with jazzcash",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "world cup",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "child protection plan",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "restaurant ki deals",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "*336# se 12GB",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "*10# aur aaj subah 6 se shaam 6",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "JAZZ MINS",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "بینظیر",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "recharge karaen",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "easy card",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "jazzcash app se bank ya cnic",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "bills ada karen",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "smartsms",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "Qarza",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "فوری لون",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "facebook aur whatsapp",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "playstore games",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "careem",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "careem",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "cricket",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "ultra self bundle",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "My telenor app",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "mytelenor app",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "hungama",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "hungama",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "easypaisa app",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "facebook aur",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "internet offer",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Abhi *66# dial karen aur apni khaas offer haasil karen jo sirf aap k liye banai gaye",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "warda",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "warda",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "equals",
+				"pattern": "Loan",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "super offer",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "equals",
+				"pattern": "binjee",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Easy fitness tips",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "super summer sales",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Telenor biz store",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "equals",
+				"pattern": "pubg mobile",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*abhi*hasil*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "* offer*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*Cricket*Match*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "pinkribbon",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "pubg",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "کریں چاہنے والوں کے ساتھ Rs.500 تک کا بیلنس شیر. جیزشیر کرنے کے لئے #رقم*نمبر*100* ملائیں مثلا  #50*03001234567*100* چارجز Rs.4.78+tax",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "My telenor download",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "telenor food",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Ab aap hasil karain gay har call ke baad call charges aur baqaya balance ki tafseel, woh bhi bilkul muft",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "sanasafinaz",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "sana safinaz",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "gulahmed",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*recharge karain*hasil karain*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "*5*7# se 7din k liye hasil karen 1000Telenor min,70 doosray network min,700 SMS,100MB, 350 social MBS sirf Rs 115 bama tax may",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "1500MB din bhar!! *10# se hasil karein 1500MB sirf Rs11.95 mein 6am se 6pm tak",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Rs.50 MUFT chahye? 31st July tak JazzCash App sy Bill Payment, Mobile Load, CNIC/Bank mai Money Transfer karain. Tou abhi JazzCash App py ao! bit.ly/2FeNKbj",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "shoebox",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Now easily buy coins, gems, diamonds, UC in play store games with Telenor Sim Balance.",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": " Account se 100 ya zaid ka easyload krny pr fori 1000 mins, SMS or MB MUFT paen. Abhi *786# mila kr muft account khulwain aur raqam jama kurwaen ",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "*336# se hasil karein 12GB puray 7 din k liye sirf Rs170 bama tax mein",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "sarmaya",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "offer",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "50 MUFT MIN! Aaj Rs. 50 ka recharge karien aur kal 50 JAZZ/WAIRD MIN ek din ke liye BILKUL MUFT hasil karien! Jazz Dunya ko Bataa Do!",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "afsaneh",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Centaurus Mall Islamabad",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "smarttune",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*pakistan*bike*gold*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*hasil*kar*din*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "sim lagao",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*hospital*healthcare*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "kih",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*hasil*karein*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "summer sale",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "winter sale",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "zakat aur atyaat",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Abhi *551# mila k paen 50 onnet mins roz (10pm-6pm), 3000 SMS, 1500 MB (1am-9pm). Har Rs15 ya zaed k istmal pe 1 din k lie paen mazid 50 onnet mins, MBs or SMS",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Balance load karao ab ghar bethay. Jazz World app download karo aur app ke through recharge karao behad",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Moaziz Saarif, JazzCash agent se MUFT biometric verification karwa ky apne JazzCash Account ki limit upgrade karwain. Qareebi agent k liay *786*0*1# milaen",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "InfinityE5",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "breakout",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "www.breakout.com.pk",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "infinity",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Moaziz Saarif, Abhi *5*7# se payein 7 din ke liye 1000 Telenor/PTCL Mins, 70 Other Network Mins, 700 SMS, 100 MBs aur 350 Social MBs sirf Rs. 115 bama tax mein",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "allow",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*remaining*expire*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "allow",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*PIN*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "beechtree",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*Easypaisa Account main*istmal*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "pitc-fesco",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*Electricity Meter Reading*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Jazz BaKhabar Kissan se mosam, mandi rate or zarai masail ka fori hal bazariya Call Center,SMS,VMS bilkul MUFT hasil kren. Service k liye 03030300000 dial kren.",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "download",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "collection",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "fabric",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "NAB",
+				"case_sensitive": true
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "maryam nawaz",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "CSD",
+				"case_sensitive": true
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "live tv",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "jazz tv",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "social bundle",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*facebook*twitter*whatsapp*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "win big",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "telenor. play",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*jazz*alert*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "qismat ka hal",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "kismat ka hal",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "kismat ka haal",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Qismat ka Haal",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*jazz*sitaron*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "jazz",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "*7940#",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "https://dirbs.pta.gov.pk/",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*payen*aur*zyada*mb*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "bama tax",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "telenor",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "tax",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "jazz",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "tax",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "9210",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "bykea",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "9210",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "Bike",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*bykea*bike*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "jazz",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*muft*min*rs*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "jazz",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "wildcard",
+				"pattern": "muft*recharge*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "jazz/warid min",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Ap k number pe internet services & Video Calling activate ho gaye hain. Apna Handset restart karain. Behtareen bundles k liye *444# milaen",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "nayatel",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "alkaram",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*alkaram*mal*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "easypaisa app",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "Apnay CNIC per registered SIMs ki tadad maloom karney kay lye, apna CNIC number 668 per bhejen. Tadad drust na honay per mutaliqa operator say rujoo kren ",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*my*telenor*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*sa*rif*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "0306 8450632",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "general knowledge",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "easypaisa",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "wildcard",
+				"pattern": "*bakhabar kis*an*",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "PITB",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "ڈنگی",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "136GB 30Day",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "teleclips",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "ideas",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "gul ahmed winter",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "gamebox",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "gamebox",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "pacman",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"body": {
+				"mode": "contains",
+				"pattern": "pacman",
+				"case_sensitive": false
+			}
+		},
+		{
+			"action": "block",
+			"sender": {
+				"mode": "contains",
+				"pattern": "Jazz",
+				"case_sensitive": false
+			},
+			"body": {
+				"mode": "contains",
+				"pattern": "*627#",
+				"case_sensitive": false
+			}
+		}
+	]
+}
